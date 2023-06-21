@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat">
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <div align='center'><img src="./image/name.png"></div>
 
 <div align="center">
