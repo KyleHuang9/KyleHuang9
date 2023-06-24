@@ -45,7 +45,7 @@
 
  - 📖 Learning AI & Automation.
     
- - 🔭 I love programming, reading, traveling.
+ - 🔭 I love coding, reading, traveling.
 
  - 🛸 AI is changing the world.
  
