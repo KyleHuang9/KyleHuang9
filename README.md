@@ -34,7 +34,7 @@
 </div>
 
 <div align="center"
-  <h3>🧑‍🎓 I am a sophomore at Northwestern Polytechnical University in China. <img src="https://www.nwpu.edu.cn/images/logo2.png" height="15" width="80"></h3>
+  <h3>🧑‍🎓 I am a student at Northwestern Polytechnical University in China. <img src="https://www.nwpu.edu.cn/images/logo2.png" height="15" width="80"></h3>
 </div>
 
 <br />
